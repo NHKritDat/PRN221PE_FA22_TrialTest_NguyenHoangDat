@@ -1,0 +1,17 @@
+﻿@page
+@model CandidateManagement_NguyenHoangDat.Pages.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+<form method="post">
+    <label>Email</label>
+    <input name="txtEmail" type="text" />
+    <label>Password</label>
+    <input name="txtPassword" type="password" />
+    <input type="submit" value="Login" />
+    <input type="reset" value="Reset" />
+</form>
+@if(Model.ErrorMessage != null)
+{
+    <p class="text-danger">@Model.ErrorMessage</p>
+}

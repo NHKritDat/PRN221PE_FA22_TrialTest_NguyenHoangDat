@@ -1,0 +1,15 @@
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\bin\Debug\net8.0\Candidate_Daos.deps.json
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\bin\Debug\net8.0\Candidate_Daos.dll
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\bin\Debug\net8.0\Candidate_Daos.pdb
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\bin\Debug\net8.0\Candidate_BOs.dll
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\bin\Debug\net8.0\Candidate_BOs.pdb
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\obj\Debug\net8.0\Candidate_Daos.csproj.AssemblyReference.cache
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\obj\Debug\net8.0\Candidate_Daos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\obj\Debug\net8.0\Candidate_Daos.AssemblyInfoInputs.cache
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\obj\Debug\net8.0\Candidate_Daos.AssemblyInfo.cs
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\obj\Debug\net8.0\Candidate_Daos.csproj.CoreCompileInputs.cache
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\obj\Debug\net8.0\Candidat.B5631F97.Up2Date
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\obj\Debug\net8.0\Candidate_Daos.dll
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\obj\Debug\net8.0\refint\Candidate_Daos.dll
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\obj\Debug\net8.0\Candidate_Daos.pdb
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Daos\obj\Debug\net8.0\ref\Candidate_Daos.dll

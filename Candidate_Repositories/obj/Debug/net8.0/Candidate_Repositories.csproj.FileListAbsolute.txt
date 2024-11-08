@@ -1,0 +1,17 @@
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\bin\Debug\net8.0\Candidate_Repositories.deps.json
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\bin\Debug\net8.0\Candidate_Repositories.dll
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\bin\Debug\net8.0\Candidate_Repositories.pdb
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\bin\Debug\net8.0\Candidate_BOs.dll
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\bin\Debug\net8.0\Candidate_Daos.dll
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\bin\Debug\net8.0\Candidate_Daos.pdb
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\bin\Debug\net8.0\Candidate_BOs.pdb
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\obj\Debug\net8.0\Candidate_Repositories.csproj.AssemblyReference.cache
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\obj\Debug\net8.0\Candidate_Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\obj\Debug\net8.0\Candidate_Repositories.AssemblyInfoInputs.cache
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\obj\Debug\net8.0\Candidate_Repositories.AssemblyInfo.cs
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\obj\Debug\net8.0\Candidate_Repositories.csproj.CoreCompileInputs.cache
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\obj\Debug\net8.0\Candidat.0571E3D3.Up2Date
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\obj\Debug\net8.0\Candidate_Repositories.dll
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\obj\Debug\net8.0\refint\Candidate_Repositories.dll
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\obj\Debug\net8.0\Candidate_Repositories.pdb
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_Repositories\obj\Debug\net8.0\ref\Candidate_Repositories.dll

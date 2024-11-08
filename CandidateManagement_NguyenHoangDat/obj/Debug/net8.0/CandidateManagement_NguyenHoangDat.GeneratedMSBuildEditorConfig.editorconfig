@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CandidateManagement_NguyenHoangDat
+build_property.RootNamespace = CandidateManagement_NguyenHoangDat
+build_property.ProjectDir = D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\CandidateManagement_NguyenHoangDat\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\CandidateManagement_NguyenHoangDat
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/CandidateProfilePage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUHJvZmlsZVBhZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/CandidateProfilePage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUHJvZmlsZVBhZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/CandidateProfilePage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUHJvZmlsZVBhZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/CandidateProfilePage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUHJvZmlsZVBhZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/CandidateProfilePage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUHJvZmlsZVBhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/JobPostingPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iUG9zdGluZ1BhZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/JobPostingPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iUG9zdGluZ1BhZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/JobPostingPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iUG9zdGluZ1BhZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/JobPostingPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iUG9zdGluZ1BhZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/JobPostingPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iUG9zdGluZ1BhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/Permission.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVybWlzc2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Develops/Projects/Personal/PRN221_Trial_PE/PRN221PE_FA22_TrialTest_NguyenHoangDat/CandidateManagement_NguyenHoangDat/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5rp1u5rfss

@@ -1,0 +1,62 @@
+﻿@page
+@model CandidateManagement_NguyenHoangDat.Pages.JobPostingPage.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+    var roleIDString = HttpContext.Session.GetString("RoleID");
+    if (roleIDString == null)
+    {
+        Response.Redirect("/Login");
+    }
+    else
+    {
+        int roleID = Int32.Parse(roleIDString);
+        if (roleID == 3)
+        {
+            Response.Redirect("/Login");
+        }
+    }
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.JobPosting[0].JobPostingTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JobPosting[0].Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JobPosting[0].PostedDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.JobPosting)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.JobPostingTitle)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PostedDate)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.PostingId">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.PostingId">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.PostingId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

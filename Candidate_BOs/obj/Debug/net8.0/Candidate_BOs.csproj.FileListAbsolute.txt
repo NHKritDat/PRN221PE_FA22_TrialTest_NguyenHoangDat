@@ -1,0 +1,14 @@
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_BOs\bin\Debug\net8.0\Candidate_BOs.deps.json
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_BOs\bin\Debug\net8.0\Candidate_BOs.runtimeconfig.json
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_BOs\bin\Debug\net8.0\Candidate_BOs.dll
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_BOs\bin\Debug\net8.0\Candidate_BOs.pdb
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_BOs\obj\Debug\net8.0\Candidate_BOs.csproj.AssemblyReference.cache
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_BOs\obj\Debug\net8.0\Candidate_BOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_BOs\obj\Debug\net8.0\Candidate_BOs.AssemblyInfoInputs.cache
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_BOs\obj\Debug\net8.0\Candidate_BOs.AssemblyInfo.cs
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_BOs\obj\Debug\net8.0\Candidate_BOs.csproj.CoreCompileInputs.cache
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_BOs\obj\Debug\net8.0\Candidate_BOs.dll
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_BOs\obj\Debug\net8.0\refint\Candidate_BOs.dll
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_BOs\obj\Debug\net8.0\Candidate_BOs.pdb
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_BOs\obj\Debug\net8.0\Candidate_BOs.genruntimeconfig.cache
+D:\Develops\Projects\Personal\PRN221_Trial_PE\PRN221PE_FA22_TrialTest_NguyenHoangDat\Candidate_BOs\obj\Debug\net8.0\ref\Candidate_BOs.dll
